@@ -1,0 +1,31 @@
+body {
+
+    background: lightyellow;
+    width: 600px;
+    margin: auto;
+}
+
+h1 {
+    background: lightcyan;
+    font-family: "Amatic";
+}
+
+h2 {
+    background: lavender;
+    font-family: "Amatic";
+}
+.blue {
+    background: lightblue;
+}
+
+.krem {
+    background: bisque;
+}
+
+ul {
+    background: white;
+    font-weight: 900;
+    letter-spacing: 10px;
+    line-height: 30 px;
+    font-variant-caps: all-caps;
+}
